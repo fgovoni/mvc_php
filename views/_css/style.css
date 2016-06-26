@@ -87,3 +87,35 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+header {
+	background-color: #002843;
+}
+
+
+#logo-principal {
+    padding-left:57px;
+}
+#logo-secundario {
+    padding-left: 0 px;
+}
+
+footer {
+	background-color: #ff7300;
+	clear: both;
+	color: #e0e0e0;
+	font-size: 90%;
+}
+
+footer p {
+	text-align: center;
+}
+
+footer a {
+	color: #ffe74c;
+	text-decoration: none;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}

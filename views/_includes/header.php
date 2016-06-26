@@ -27,3 +27,7 @@
 <body>
 
 <div class="main-page">
+    <header>
+        <img id="logo-principal" src="<?php echo HOME_URI;?>/views/_images/mask.png" alt="Logotipo FSociety" title="Máscara FSociety"/>
+        <img id="logo-secundario" src="<?php echo HOME_URI;?>/views/_images/mrrobot.png" alt="Logotipo MR. ROBOT" title="Logotipo MR. ROBOT" />
+    </header>
